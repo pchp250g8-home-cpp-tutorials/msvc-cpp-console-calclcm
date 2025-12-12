@@ -33,7 +33,7 @@ int main()
             }
         }
         int nLcm = (iVal3 + iVal4) / 2;
-        std::cout << "The Gcd of the numbers " << iNum1 << " and " << iNum2
+        std::cout << "The Lcm of the numbers " << iNum1 << " and " << iNum2
             << " is " << nLcm << "\r\n";
     }
     else
